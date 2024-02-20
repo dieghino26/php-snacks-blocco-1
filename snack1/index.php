@@ -6,6 +6,39 @@ Olimpia Milano - Cantù | 55-60 */
 
 
 $matches = [
-    []
+    [
+        "home_team" => "CHICAGO BULLS",
+        "away_team" => "LOS ANGELES LAKERS",
+        "ht_point" =>  102, 
+        "at_point" =>  46,
+    ],
+
+    [
+        "home_team" => "GOLDEN STATE WARRIORS",
+        "away_team" => "DALLAS MAVERICKS",
+        "ht_point" =>  52, 
+        "at_point" =>  76, 
+    ],
+
+    [
+        "home_team" => "PHILADELPHIA 76ERS",
+        "away_team" => "HOUSTON ROCKETS",
+        "ht_point" =>  85, 
+        "at_point" =>  87, 
+    ],
+
+    [
+        "home_team" => "SACRAMENTO KINGS",
+        "away_team" => "ORLANDO MAGIC",
+        "ht_point" =>  132, 
+        "at_point" =>  75,
+    ],
+
+    [
+        "home_team" => "SAN ANTONIO SPURS",
+        "away_team" => "UTAH JAZZ",
+        "ht_point" =>  102,
+        "at_point" =>  53 
+    ]
 ]
 ?>
